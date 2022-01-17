@@ -1,9 +1,9 @@
 {
-    "name": "vue3-eslint-amarkov",
-    "version": "0.0.4",
+    "name": "eslint-config-vue3-un2mercey",
+    "version": "0.0.5",
     "description": "Vue3 eslint config",
     "main": "index.js",
-    "repository": "git@github.com:Un2mercey/vue3-eslint-amarkov.git",
+    "repository": "git@github.com:Un2mercey/eslint-config-vue3-un2mercey.git",
     "author": "Arseniy Markov",
     "license": "MIT",
     "private": true,
