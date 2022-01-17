@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-yarn add eslint-vue3@git+ssh://git@github.com:Un2mercey/vue3-eslint-amarkov.git -D
+yarn add vue3-eslint-amarkov@git+ssh://git@github.com:Un2mercey/vue3-eslint-amarkov.git -D
 ```
 
 ## Usage

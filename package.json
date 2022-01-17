@@ -1,6 +1,6 @@
 {
     "name": "vue3-eslint-amarkov",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Vue3 eslint config",
     "main": "index.js",
     "repository": "git@github.com:Un2mercey/vue3-eslint-amarkov.git",
@@ -14,7 +14,7 @@
         "eslint-config-airbnb-base": "^13.1.0"
     },
     "devDependencies": {
-        "eslint": "^5.16.0",
-        "eslint-plugin-import": "^2.17.2"
+        "eslint": "^8.7.0",
+        "eslint-plugin-import": "^2.25.4"
     }
 }
