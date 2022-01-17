@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-yarn add eslint-vue3@git+ssh://git@github.com:Un2mercey/eslint-vue3.git --dev
+yarn add eslint-vue3@git+ssh://git@github.com:Un2mercey/vue3-eslint-amarkov.git -D
 ```
 
 ## Usage
@@ -12,5 +12,5 @@ Add this to your `.eslintrc.js` file:
 
 ```
 {
-  "extends": ""
+  "extends": "amarkov"
 }
