@@ -1,6 +1,6 @@
 {
     "name": "@un2mercey/eslint-config-vue",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Vue eslint config",
     "main": "index.js",
     "repository": "git@github.com:Un2mercey/eslint-config-vue.git",
