@@ -115,6 +115,12 @@ module.exports = {
                 "ignoreDestructuring": true
             }
         ],
-        "no-console": "off",
+        "import/extensions": [0],
+        "no-throw-literal": [1],
+        "no-useless-escape": [1],
+        "class-methods-use-this": [0],
+        "import/no-unresolved": [0],
+        "no-template-curly-in-string": [1],
+        "linebreak-style": [0],
     }
 }
