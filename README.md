@@ -1,4 +1,4 @@
-# Eslint Vue3 config 
+# Eslint config for Vue 
 
 ## Install
 

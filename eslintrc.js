@@ -116,11 +116,11 @@ module.exports = {
             }
         ],
         "no-console": "off",
-        "prefer-regex-literals": [
-            "error",
-            {
-                "disallowRedundantWrapping": true
-            }
-        ]
+        // "prefer-regex-literals": [
+        //     "error",
+        //     {
+        //         "disallowRedundantWrapping": true
+        //     }
+        // ]
     }
 }
